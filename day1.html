@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>The Introduction</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		
+	</head>
+	<body>
+		<div></div>
+
+		<script>
+
+			function countWords(countem) {
+				s = countem;
+				s = s.replace(/(^\s*)|(\s*$)/gi,"");
+				s = s.replace(/[ ]{2,}/gi," ");
+				s = s.replace(/\n /,"\n");
+				return s.split(' ').length;
+			}
+
+			function init() {
+				// load names.json
+				xnames = $.getJSON( "names.json", function() {
+					console.log( "x1996m success" );
+				});
+				
+				// load jobs.json
+				let jobs = $.getJSON( "jobs.json", function() {
+				  	console.log( "jobs success" );
+				});
+				// load cities.json
+				let cities = $.getJSON( "cities.json", function() {
+				  	console.log( "cities success" );
+				});
+				// load ages.json
+				let ages = $.getJSON( "ages.json", function() {
+				  	console.log( "ages success" );
+				});
+
+				let novel = "I walked into the large conference hall unsure if I would stay.  There were a series of tables arrainged in a loop around the outside of the room.<br><br>Speed dating was way out of my comfort zone.<br><br>Others gathered as the host explained the rules, when the bell rang, we were to find an open seat, women on the outside, men on the inside. When the bell rang again, men would move to the table on their left.  Before beginning the next date, you have 60 seconds to rate the last date on your sheet.<br><br>After an awkward pause the bell rings and I grab the nearest available chair.<br><br>";
+				let gender = "";
+				let age = "";
+				let location = "";
+				let profession = "";
+				let marital = "";
+				let children = "";		
+				let agePercent = "";
+
+				setTimeout(function(){
+
+				while ( countWords(novel) < 50200 ) {
+                    console.log(countWords(novel));
+					// get gender
+					if (Math.random() > .5) {
+						gender = "man";
+					} else {
+						gender = "woman";
+					}
+					// console.log( gender );
+					// get age
+					let lower = 18;
+					let higher = 73;
+					age = Math.round(Math.random() * (higher - lower)) + lower;
+					// New get age
+					let range = 5;
+					// get random number 
+					while ( agePercent < .356 ) {
+						agePercent = Math.random();
+					}
+					// find age range
+					// while ( agePercent > 0 ) {
+					// 	if (agePercent < ages.responseJSON.ages.x1996.man[Math.round(Math.random() * 100)] ) {
+					// 		// do somthing
+					// 	} else {
+					// 		// do something else
+					// 	}
+					// }
+
+					console.log( "age2: " + age + "ageRange: " + range );
+					// get name
+					let birthyear = 2012-age
+					if (birthyear < 1996 && birthyear > 1990 ) {
+
+					}	else if (birthyear < 1996 && birthyear > 1990 ) {
+						if (gender === "man") {
+							name = xnames.responseJSON.names.x1996.man[Math.round(Math.random() * 100)];
+						} else {
+							name = xnames.responseJSON.names.x1996.woman[Math.round(Math.random() * 100)];
+						}
+					}	else if (birthyear < 1991 && birthyear > 1985 ) {
+						if (gender === "man") {
+							name = xnames.responseJSON.names.x1991.man[Math.round(Math.random() * 100)];
+						} else {
+							name = xnames.responseJSON.names.x1991.woman[Math.round(Math.random() * 100)];
+						}
+					}	else if (birthyear < 1986 && birthyear > 1980 ) {
+						if (gender === "man") {
+							name = xnames.responseJSON.names.x1986.man[Math.round(Math.random() * 100)];
+						} else {
+							name = xnames.responseJSON.names.x1986.woman[Math.round(Math.random() * 100)];
+						}
+					}	else if (birthyear < 1981 && birthyear > 1975 ) {
+						if (gender === "man") {
+							name = xnames.responseJSON.names.x1981.man[Math.round(Math.random() * 100)];
+						} else {
+							name = xnames.responseJSON.names.x1981.woman[Math.round(Math.random() * 100)];
+						}
+					}	else if (birthyear < 1976 && birthyear > 1970 ) {
+						if (gender === "man") {
+							name = xnames.responseJSON.names.x1976.man[Math.round(Math.random() * 100)];
+						} else {
+							name = xnames.responseJSON.names.x1976.woman[Math.round(Math.random() * 100)];
+						}
+					}	else if (birthyear < 1971 && birthyear > 1965 ) {
+						if (gender === "man") {
+							name = xnames.responseJSON.names.x1971.man[Math.round(Math.random() * 100)];
+						} else {
+							name = xnames.responseJSON.names.x1971.woman[Math.round(Math.random() * 100)];
+						}
+					}	else if (birthyear < 1966 && birthyear > 1960 ) {
+						if (gender === "man") {
+							name = xnames.responseJSON.names.x1966.man[Math.round(Math.random() * 100)];
+						} else {
+							name = xnames.responseJSON.names.x1966.woman[Math.round(Math.random() * 100)];
+						}
+					}	else if (birthyear < 1961 && birthyear > 1955 ) {
+						if (gender === "man") {
+							name = xnames.responseJSON.names.x1961.man[Math.round(Math.random() * 100)];
+						} else {
+							name = xnames.responseJSON.names.x1961.woman[Math.round(Math.random() * 100)];
+						}
+					}	else if (birthyear < 1956 && birthyear > 1940 ) {
+						if (gender === "man") {
+							name = xnames.responseJSON.names.x1956.man[Math.round(Math.random() * 100)];
+						} else {
+							name = xnames.responseJSON.names.x1956.woman[Math.round(Math.random() * 100)];
+						}
+					}	else if (birthyear < 1951 && birthyear > 1945 ) {
+						if (gender === "man") {
+							name = xnames.responseJSON.names.x1951.man[Math.round(Math.random() * 100)];
+						} else {
+							name = xnames.responseJSON.names.x1951.woman[Math.round(Math.random() * 100)];
+						}
+					}	else if (birthyear < 1946 && birthyear > 1940 ) {
+						if (gender === "man") {
+							name = xnames.responseJSON.names.x1946.man[Math.round(Math.random() * 100)];
+						} else {
+							name = xnames.responseJSON.names.x1946.woman[Math.round(Math.random() * 100)];
+						}
+					}	else if (birthyear < 1941 && birthyear > 1934 ) {
+						if (gender === "man") {
+							name = xnames.responseJSON.names.x1941.man[Math.round(Math.random() * 100)];
+						} else {
+							name = xnames.responseJSON.names.x1941.woman[Math.round(Math.random() * 100)];
+						}
+					}
+					// get location
+
+					// get profession
+
+					// get marital status
+
+					// get child status
+					let city = Math.round(Math.random() * 268)+1;
+                    let greeting = ["My name is ","Hi I'm ","Hello, my name is ","Hello, I'm ","Hey! I am ","Hi! They call me ","Hey! I am ","Hey! I am ", "I'm a little nervous, but my name is ", "I'm ","Hi I'm ...uh ","Hello, (ahem) my name is ","Hello, I'm... well, I'm ","Hey! I am (clears throat) ","Hi! My name is... well, they call me ","Hey! I am new here.  ", "I'm not used to this kind of thing, but my name is ", "Hi all, I'm ...uh ", "I'm um..."];
+                    let whereFrom = [" originally from "," and I'm new to town, but I just moved here from ", " born and raised in ", ]
+					novel += greeting[Math.floor(Math.random()*greeting.length)];
+					novel += name;
+					let iam = [" and I am a ",". I am a ",". ", " I'm a ", " and I'm a "];
+					novel += iam[Math.floor(Math.random()*iam.length)];					
+					novel += age + " year old " ;					
+					if ( age > 65 && Math.random() > .6) {
+						novel += "retired ";
+					}
+					let myjob = jobs.responseJSON.jobs[Math.round(Math.random() * 300)+1];
+					novel += myjob.toLowerCase() + whereFrom[Math.floor(Math.random()*whereFrom.length)];
+
+					switch (Math.round(Math.random() * 2)+1) {
+						case 1:
+					 		novel += cities.responseJSON.cities[city][0];
+					 		break;
+					 	case 2:
+					 		novel += cities.responseJSON.cities[city][0] + ", " + cities.responseJSON.cities[city][1];
+					 		break;
+					 	case 3:
+					 		mycity = cities.responseJSON.cities[city];
+					 		novel += cities.responseJSON.cities[city][Math.floor(Math.random()*(mycity.length-1))+1];
+					 		break;
+					}
+					novel +=  ".<br><br> ";
+				}
+				$( "div" ).html( novel );
+				
+				},10000);	
+			}
+			
+			init();
+			
+		</script>
+	</body>
+</html>

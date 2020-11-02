@@ -1,0 +1,667 @@
+{
+    "collection1": [
+        {
+            "state": "Alabama",
+            "totalpop": "4,779,736",
+            "breakdown": [
+                {
+                    "white": "3,362,877",
+                    "black": "1,259,224",
+                    "native": "32,903",
+                    "asian": "55,240",
+                    "hawaiian": "5,208"
+                }
+            ]
+        },
+        {
+            "state": "Alaska",
+            "totalpop": "710,231",
+            "breakdown": [
+                {
+                    "white": "483,873",
+                    "black": "24,441",
+                    "native": "106,268",
+                    "asian": "38,882",
+                    "hawaiian": "7,662"
+                }
+            ]
+        },
+        {
+            "state": "Arizona",
+            "totalpop": "6,392,017",
+            "breakdown": [
+                {
+                    "white": "5,418,483",
+                    "black": "280,905",
+                    "native": "335,278",
+                    "asian": "188,456",
+                    "hawaiian": "16,112"
+                }
+            ]
+        },
+        {
+            "state": "Arkansas",
+            "totalpop": "2,915,918",
+            "breakdown": [
+                {
+                    "white": "2,342,403",
+                    "black": "454,021",
+                    "native": "26,134",
+                    "asian": "37,537",
+                    "hawaiian": "6,685"
+                }
+            ]
+        },
+        {
+            "state": "California",
+            "totalpop": "37,253,956",
+            "breakdown": [
+                {
+                    "white": "27,636,403",
+                    "black": "2,486,549",
+                    "native": "622,107",
+                    "asian": "5,038,123",
+                    "hawaiian": "181,431"
+                }
+            ]
+        },
+        {
+            "state": "Colorado",
+            "totalpop": "5,029,196",
+            "breakdown": [
+                {
+                    "white": "4,450,623",
+                    "black": "214,919",
+                    "native": "78,144",
+                    "asian": "144,819",
+                    "hawaiian": "8,420"
+                }
+            ]
+        },
+        {
+            "state": "Connecticut",
+            "totalpop": "3,574,097",
+            "breakdown": [
+                {
+                    "white": "2,950,820",
+                    "black": "392,131",
+                    "native": "16,734",
+                    "asian": "140,516",
+                    "hawaiian": "3,491"
+                }
+            ]
+        },
+        {
+            "state": "Delaware",
+            "totalpop": "897,934",
+            "breakdown": [
+                {
+                    "white": "645,770",
+                    "black": "196,281",
+                    "native": "5,929",
+                    "asian": "29,342",
+                    "hawaiian": "690"
+                }
+            ]
+        },
+        {
+            "state": "District of Columbia",
+            "totalpop": "601,723",
+            "breakdown": [
+                {
+                    "white": "251,265",
+                    "black": "310,379",
+                    "native": "3,264",
+                    "asian": "21,705",
+                    "hawaiian": "770"
+                }
+            ]
+        },
+        {
+            "state": "Florida",
+            "totalpop": "18,801,310",
+            "breakdown": [
+                {
+                    "white": "14,808,867",
+                    "black": "3,078,067",
+                    "native": "89,119",
+                    "asian": "474,199",
+                    "hawaiian": "18,790"
+                }
+            ]
+        },
+        {
+            "state": "Georgia",
+            "totalpop": "9,687,653",
+            "breakdown": [
+                {
+                    "white": "6,144,931",
+                    "black": "2,993,927",
+                    "native": "48,599",
+                    "asian": "323,459",
+                    "hawaiian": "10,454"
+                }
+            ]
+        },
+        {
+            "state": "Hawaii",
+            "totalpop": "1,360,301",
+            "breakdown": [
+                {
+                    "white": "349,051",
+                    "black": "22,473",
+                    "native": "4,960",
+                    "asian": "531,633",
+                    "hawaiian": "138,292"
+                }
+            ]
+        },
+        {
+            "state": "Idaho",
+            "totalpop": "1,567,582",
+            "breakdown": [
+                {
+                    "white": "1,476,097",
+                    "black": "10,950",
+                    "native": "25,782",
+                    "asian": "20,034",
+                    "hawaiian": "2,786"
+                }
+            ]
+        },
+        {
+            "state": "Illinois",
+            "totalpop": "12,830,632",
+            "breakdown": [
+                {
+                    "white": "10,030,587",
+                    "black": "1,903,458",
+                    "native": "73,846",
+                    "asian": "604,399",
+                    "hawaiian": "7,436"
+                }
+            ]
+        },
+        {
+            "state": "Indiana",
+            "totalpop": "6,483,802",
+            "breakdown": [
+                {
+                    "white": "5,638,833",
+                    "black": "603,797",
+                    "native": "24,487",
+                    "asian": "105,535",
+                    "hawaiian": "3,532"
+                }
+            ]
+        },
+        {
+            "state": "Iowa",
+            "totalpop": "3,046,355",
+            "breakdown": [
+                {
+                    "white": "2,839,615",
+                    "black": "91,695",
+                    "native": "13,563",
+                    "asian": "54,232",
+                    "hawaiian": "2,419"
+                }
+            ]
+        },
+        {
+            "state": "Kansas",
+            "totalpop": "2,853,118",
+            "breakdown": [
+                {
+                    "white": "2,501,057",
+                    "black": "173,298",
+                    "native": "33,044",
+                    "asian": "69,628",
+                    "hawaiian": "2,864"
+                }
+            ]
+        },
+        {
+            "state": "Kentucky",
+            "totalpop": "4,339,367",
+            "breakdown": [
+                {
+                    "white": "3,864,193",
+                    "black": "342,804",
+                    "native": "12,105",
+                    "asian": "50,177",
+                    "hawaiian": "3,199"
+                }
+            ]
+        },
+        {
+            "state": "Louisiana",
+            "totalpop": "4,533,372",
+            "breakdown": [
+                {
+                    "white": "2,902,875",
+                    "black": "1,462,969",
+                    "native": "33,037",
+                    "asian": "71,829",
+                    "hawaiian": "2,588"
+                }
+            ]
+        },
+        {
+            "state": "Maine",
+            "totalpop": "1,328,361",
+            "breakdown": [
+                {
+                    "white": "1,269,764",
+                    "black": "16,269",
+                    "native": "8,771",
+                    "asian": "13,783",
+                    "hawaiian": "377"
+                }
+            ]
+        },
+        {
+            "state": "Maryland",
+            "totalpop": "5,773,552",
+            "breakdown": [
+                {
+                    "white": "3,541,379",
+                    "black": "1,731,513",
+                    "native": "30,885",
+                    "asian": "326,655",
+                    "hawaiian": "5,391"
+                }
+            ]
+        },
+        {
+            "state": "Massachusetts",
+            "totalpop": "6,547,629",
+            "breakdown": [
+                {
+                    "white": "5,524,937",
+                    "black": "504,365",
+                    "native": "29,944",
+                    "asian": "359,673",
+                    "hawaiian": "5,971"
+                }
+            ]
+        },
+        {
+            "state": "Michigan",
+            "totalpop": "9,883,640",
+            "breakdown": [
+                {
+                    "white": "7,949,497",
+                    "black": "1,416,067",
+                    "native": "68,396",
+                    "asian": "243,062",
+                    "hawaiian": "3,442"
+                }
+            ]
+        },
+        {
+            "state": "Minnesota",
+            "totalpop": "5,303,925",
+            "breakdown": [
+                {
+                    "white": "4,623,461",
+                    "black": "280,949",
+                    "native": "67,325",
+                    "asian": "217,792",
+                    "hawaiian": "2,958"
+                }
+            ]
+        },
+        {
+            "state": "Mississippi",
+            "totalpop": "2,967,297",
+            "breakdown": [
+                {
+                    "white": "1,789,391",
+                    "black": "1,103,101",
+                    "native": "16,837",
+                    "asian": "26,477",
+                    "hawaiian": "1,700"
+                }
+            ]
+        },
+        {
+            "state": "Missouri",
+            "totalpop": "5,988,927",
+            "breakdown": [
+                {
+                    "white": "5,038,407",
+                    "black": "700,178",
+                    "native": "30,595",
+                    "asian": "100,213",
+                    "hawaiian": "7,178"
+                }
+            ]
+        },
+        {
+            "state": "Montana",
+            "totalpop": "989,415",
+            "breakdown": [
+                {
+                    "white": "891,529",
+                    "black": "4,215",
+                    "native": "63,495",
+                    "asian": "6,379",
+                    "hawaiian": "734"
+                }
+            ]
+        },
+        {
+            "state": "Nebraska",
+            "totalpop": "1,826,341",
+            "breakdown": [
+                {
+                    "white": "1,649,264",
+                    "black": "85,971",
+                    "native": "23,418",
+                    "asian": "33,322",
+                    "hawaiian": "2,061"
+                }
+            ]
+        },
+        {
+            "state": "Nevada",
+            "totalpop": "2,700,551",
+            "breakdown": [
+                {
+                    "white": "2,106,494",
+                    "black": "231,224",
+                    "native": "42,965",
+                    "asian": "203,478",
+                    "hawaiian": "19,307"
+                }
+            ]
+        },
+        {
+            "state": "New Hampshire",
+            "totalpop": "1,316,470",
+            "breakdown": [
+                {
+                    "white": "1,248,321",
+                    "black": "16,365",
+                    "native": "3,530",
+                    "asian": "28,933",
+                    "hawaiian": "532"
+                }
+            ]
+        },
+        {
+            "state": "New Jersey",
+            "totalpop": "8,791,894",
+            "breakdown": [
+                {
+                    "white": "6,546,498",
+                    "black": "1,282,005",
+                    "native": "49,907",
+                    "asian": "746,212",
+                    "hawaiian": "7,731"
+                }
+            ]
+        },
+        {
+            "state": "New Mexico",
+            "totalpop": "2,059,179",
+            "breakdown": [
+                {
+                    "white": "1,720,992",
+                    "black": "49,006",
+                    "native": "208,890",
+                    "asian": "31,253",
+                    "hawaiian": "3,132"
+                }
+            ]
+        },
+        {
+            "state": "New York",
+            "totalpop": "19,378,102",
+            "breakdown": [
+                {
+                    "white": "13,901,661",
+                    "black": "3,378,047",
+                    "native": "183,046",
+                    "asian": "1,481,555",
+                    "hawaiian": "24,000"
+                }
+            ]
+        },
+        {
+            "state": "North Carolina",
+            "totalpop": "9,535,483",
+            "breakdown": [
+                {
+                    "white": "6,898,296",
+                    "black": "2,088,362",
+                    "native": "147,566",
+                    "asian": "215,952",
+                    "hawaiian": "10,309"
+                }
+            ]
+        },
+        {
+            "state": "North Dakota",
+            "totalpop": "672,591",
+            "breakdown": [
+                {
+                    "white": "609,136",
+                    "black": "8,248",
+                    "native": "36,948",
+                    "asian": "7,032",
+                    "hawaiian": "334"
+                }
+            ]
+        },
+        {
+            "state": "Ohio",
+            "totalpop": "11,536,504",
+            "breakdown": [
+                {
+                    "white": "9,664,524",
+                    "black": "1,426,861",
+                    "native": "29,674",
+                    "asian": "196,693",
+                    "hawaiian": "5,336"
+                }
+            ]
+        },
+        {
+            "state": "Oklahoma",
+            "totalpop": "3,751,351",
+            "breakdown": [
+                {
+                    "white": "2,851,510",
+                    "black": "284,332",
+                    "native": "335,664",
+                    "asian": "67,126",
+                    "hawaiian": "5,354"
+                }
+            ]
+        },
+        {
+            "state": "Oregon",
+            "totalpop": "3,831,074",
+            "breakdown": [
+                {
+                    "white": "3,403,252",
+                    "black": "74,414",
+                    "native": "66,784",
+                    "asian": "145,009",
+                    "hawaiian": "14,649"
+                }
+            ]
+        },
+        {
+            "state": "Pennsylvania",
+            "totalpop": "12,702,379",
+            "breakdown": [
+                {
+                    "white": "10,663,774",
+                    "black": "1,431,826",
+                    "native": "39,735",
+                    "asian": "358,195",
+                    "hawaiian": "7,115"
+                }
+            ]
+        },
+        {
+            "state": "Rhode Island",
+            "totalpop": "1,052,567",
+            "breakdown": [
+                {
+                    "white": "910,253",
+                    "black": "75,073",
+                    "native": "9,173",
+                    "asian": "31,768",
+                    "hawaiian": "1,602"
+                }
+            ]
+        },
+        {
+            "state": "South Carolina",
+            "totalpop": "4,625,364",
+            "breakdown": [
+                {
+                    "white": "3,164,143",
+                    "black": "1,302,865",
+                    "native": "24,665",
+                    "asian": "61,247",
+                    "hawaiian": "3,957"
+                }
+            ]
+        },
+        {
+            "state": "South Dakota",
+            "totalpop": "814,180",
+            "breakdown": [
+                {
+                    "white": "706,690",
+                    "black": "10,533",
+                    "native": "72,782",
+                    "asian": "7,775",
+                    "hawaiian": "517"
+                }
+            ]
+        },
+        {
+            "state": "Tennessee",
+            "totalpop": "6,346,105",
+            "breakdown": [
+                {
+                    "white": "5,056,311",
+                    "black": "1,068,010",
+                    "native": "26,256",
+                    "asian": "93,897",
+                    "hawaiian": "5,426"
+                }
+            ]
+        },
+        {
+            "state": "Texas",
+            "totalpop": "25,145,561",
+            "breakdown": [
+                {
+                    "white": "20,389,793",
+                    "black": "3,070,440",
+                    "native": "251,209",
+                    "asian": "1,000,473",
+                    "hawaiian": "31,242"
+                }
+            ]
+        },
+        {
+            "state": "Utah",
+            "totalpop": "2,763,885",
+            "breakdown": [
+                {
+                    "white": "2,547,329",
+                    "black": "33,864",
+                    "native": "40,729",
+                    "asian": "57,800",
+                    "hawaiian": "26,049"
+                }
+            ]
+        },
+        {
+            "state": "Vermont",
+            "totalpop": "625,741",
+            "breakdown": [
+                {
+                    "white": "598,592",
+                    "black": "6,456",
+                    "native": "2,308",
+                    "asian": "8,069",
+                    "hawaiian": "175"
+                }
+            ]
+        },
+        {
+            "state": "Virginia",
+            "totalpop": "8,001,024",
+            "breakdown": [
+                {
+                    "white": "5,725,432",
+                    "black": "1,579,414",
+                    "native": "41,525",
+                    "asian": "449,149",
+                    "hawaiian": "8,201"
+                }
+            ]
+        },
+        {
+            "state": "Washington",
+            "totalpop": "6,724,540",
+            "breakdown": [
+                {
+                    "white": "5,535,262",
+                    "black": "252,333",
+                    "native": "122,649",
+                    "asian": "491,685",
+                    "hawaiian": "43,505"
+                }
+            ]
+        },
+        {
+            "state": "West Virginia",
+            "totalpop": "1,852,994",
+            "breakdown": [
+                {
+                    "white": "1,746,513",
+                    "black": "63,885",
+                    "native": "3,975",
+                    "asian": "12,637",
+                    "hawaiian": "485"
+                }
+            ]
+        },
+        {
+            "state": "Wisconsin",
+            "totalpop": "5,686,986",
+            "breakdown": [
+                {
+                    "white": "5,036,923",
+                    "black": "367,021",
+                    "native": "60,100",
+                    "asian": "131,828",
+                    "hawaiian": "2,505"
+                }
+            ]
+        },
+        {
+            "state": "Wyoming",
+            "totalpop": "563,626",
+            "breakdown": [
+                {
+                    "white": "529,110",
+                    "black": "5,135",
+                    "native": "14,457",
+                    "asian": "4,649",
+                    "hawaiian": "521"
+                }
+            ]
+        }
+    ]
+}
