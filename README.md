@@ -1,6 +1,6 @@
 # NaNoGenMo2020
 
-## My first attempt at NaNoGenMoopen
+## My first attempt at NaNoGenMo
 
 ### Day One
 
