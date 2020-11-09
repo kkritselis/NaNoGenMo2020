@@ -81,3 +81,33 @@ Cataclysm is an open-source, open world, rouge-like RPG that you could train mac
 **Fianl thoughts before starting**
 
 The game centered approaches would probably produce the most 'readable' content, but would require the most original content creation and would take a lot of work before getting any out put.  The 'Shift' story stikes the right balance between original story and randomized DB/API content, but I fear 40 hours is not long enough to complete it.  Instead, I am going to cobble together a story that starts with a speed dating section, the two hit it off, and wander through the entertainment district stopping at a comedy club and a karaoke bar before calling it a night
+
+---
+
+At the end of day one, Here is a sample of the output:
+
+I walked into the large conference hall unsure if I would stay. There were a series of tables arrainged in a loop around the outside of the room.
+
+Speed dating was way out of my comfort zone.
+
+Others gathered as the host explained the rules, when the bell rang, we were to find an open seat, women on the outside, men on the inside. When the bell rang again, men would move to the table on their left. Before beginning the next date, you have 60 seconds to rate the last date on your sheet.
+
+After an awkward pause the bell rings and I grab the nearest available chair.
+
+Hello, my name is . 19 year old court clerk and I'm new to town, but I just moved here from Nashville, Tennessee.
+
+Hey! I am Raymond and I am a 24 year old forester originally from Henderson, Nevada.
+
+Hey! I am (clears throat) William. 31 year old dishwasher and I'm new to town, but I just moved here from Lewiston.
+
+Hello, (ahem) my name is Bianca and I'm a 22 year old nuclear engineer born and raised in Gainesville, Florida.
+
+I'm Bryan and I am a 31 year old phlebotomist originally from Elizabeth.
+
+Hi all, I'm ...uh Mary I'm a 44 year old lawyer born and raised in Worcester.
+
+### Day Two
+
+Weekend two didn't go as planned... life and a new project at work interfered.
+
+I was able to a few hours in, mainly rebuilding my character generator class.  The work project is due Friday, and I and hoping to get a lot of work done next weekend.
